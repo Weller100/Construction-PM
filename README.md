@@ -1,2 +1,4 @@
 # Construction-PM
-It is my view that in every property endeavour there is a consistent recipe that can be applied to benefit all projects big or small and from sector to sector. If you read a standard cooking recipe it's SIMPLE; made up of words for ingredients and numbers for quantities; this is the same approach I intend to apply throughout this reference. As I note that I have made a career out of dumbing down the technical to a form that is simple enough for me to understand; and if I can understand it, then most others can as well. For this reason I want to attempt to prepare a resource and reference tool that aims solve knowledge gaps as they arise. 
+Hi there, my name is Matt, and I'm a Project Manager working in construction management.
+I am keen to produce a property resource that summarises the steps and reference tools needed throughout a property development project. It is my intention for this to be a platform that others can use to manage their own projects and to steer them in the right direction, similar to a recipe book for cooking.
+
